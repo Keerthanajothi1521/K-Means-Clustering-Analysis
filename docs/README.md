@@ -69,9 +69,9 @@ Cumulative   85.4
 -PCA Transformation
 
 Evaluation:
-Metric	      Before PCA	      After PCA	    
-Silhouette	     0.338	          0.438	         
-Davies-Bouldin	 1.416	          0.817
+Metric	         
+Silhouette: Before PCA : 0.338, After PCA : 0.438	         
+Davies-Bouldin: Before PCA :	1.416, After PCA :	0.817
 
 Silhouette Score & Davies-Bouldin Index (DBI) in K-Means Clustering:
 Silhouette Score (0 to 1) measures cluster cohesion vs. separation (higher = better-defined clusters). 
